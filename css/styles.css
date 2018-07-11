@@ -1,0 +1,104 @@
+html, body {
+  width: 100%;
+  background: url("../img/12.jpg") repeat; }
+
+#cover-caption {
+  width: 100%; }
+
+#logo img {
+  width: 40%;
+  height: 40%; }
+
+#navbarSupportedContent {
+  padding-left: 35%; }
+
+.form-item {
+  background: url("../img/11.jpg");
+  padding: 8%; }
+
+.form-item label {
+  color: white;
+  font-family: cursive; }
+
+.form-content {
+  padding-top: 1%; }
+
+.container1-element img {
+  width: 100%;
+  height: 100%; }
+
+#what-we-do {
+  padding: 2%; }
+
+.card-block .title-card {
+  display: block;
+  font-family: cursive;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 400; }
+
+.card-block .subtitle-card {
+  display: block;
+  font-family: cursive;
+  font-size: 20px;
+  font-weight: 300; }
+
+.card3 {
+  height: 480px; }
+
+#about {
+  background-size: cover; }
+
+.about-text {
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 1.875rem; }
+
+.about-container {
+  padding-left: 5%; }
+
+.addon {
+  width: 2048px;
+  height: 871px; }
+
+.about-image {
+  padding: 7rem; }
+
+.head-brand {
+  height: 80px;
+  font-family: cursive;
+  color: #6d0a0a;
+  font-size: 60px;
+  text-align: center; }
+
+#footer-main {
+  background: #222;
+  color: white;
+  font-size: 0.8rem;
+  padding: 1.5rem 0; }
+
+#nav-main li a {
+  color: black; }
+
+#card-button1 {
+  background-color: black; }
+
+#card-button2 {
+  background-color: black; }
+
+#card-button3 {
+  background-color: black; }
+
+.content-footer ul li a {
+  color: white; }
+
+@media (max-width: 400px) {
+  .head-brand {
+    height: 170px; } }
+
+.num-page ul li a {
+  background-color: black;
+  color: white; }
+
+.num-page {
+  padding-left: 80%; }
